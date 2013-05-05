@@ -1,0 +1,7 @@
+Suc ve Ceza:1:Dostoyevski:10
+Kumarbaz:2:Dostoyevski:10
+Savas ve Baris:3:Tolstoy:10
+Vadideki Zambak:4:Balzac:10
+Sefiller:5:Hugo:10
+Yuzuklerin Efendisi:6:Tolkien:10
+Hababam Sinifi:7:Rifat Ilgaz:10
