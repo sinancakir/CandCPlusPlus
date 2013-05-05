@@ -1,0 +1,10 @@
+123:Suc ve Ceza:Dostoyevski:500:10:1
+456:Kumarbaz:Dostoyevski:400:10:1
+976:Savas ve Baris:Tolstoy:450:10:0
+444:Haci Murat:Tolstoy:550:10:1
+999:Vadideki Zambak:Balzac:455:10:1
+333:Sefiller:Hugo:350:10:0
+222:Yuzuklerin Efendisi:Tolkien:1000:10:1
+953:Rifat Ilgaz:Hababam Sinifi:333:10:0
+135:Ana:Gorki:387:10:2
+246:Martin Eden:Jack London:435:10:1 

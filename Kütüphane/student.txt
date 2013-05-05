@@ -1,0 +1,10 @@
+1234:Ali Ozturk:Computer Engineering
+4321:Mehmet Yilmaz:Computer Engineering
+1357:Ahmet Soysal:Industrial Engineering
+2468:Ayse Senturk:Electrical Engineering
+9876:Deniz Yildiz:Mathematic
+5432:Hasan Yildirim:Mechatronic Engineering
+9753:Fatih Akkurt:Business Administration
+7531:Fatma Gul:Turkish Literature
+6666:Tarýk Tunc:American Culture and Literature
+5555:Zeynep Kural:Communication
